@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "564452844190",
+    "firebase_url": "https://newdairy-f5164.firebaseio.com",
+    "project_id": "newdairy-f5164",
+    "storage_bucket": "newdairy-f5164.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564452844190:android:a95f928848d35b79",
+        "android_client_info": {
+          "package_name": "com.foodie.swapnil.newdairy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564452844190-ec269oen6svopfm8m877eb1c1l999sa0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodie.swapnil.newdairy",
+            "certificate_hash": "852e648e8bfa351627cbb87505492e0233cb3e79"
+          }
+        },
+        {
+          "client_id": "564452844190-5vg33apnek2uuqtlrj823nn1n0iuvbnb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.foodie.swapnil.newdairy",
+            "certificate_hash": "f556b37ff0177574b96374bcdf6b1c48fc8120cf"
+          }
+        },
+        {
+          "client_id": "564452844190-8suhl9kdguj37m6u568uvig73q9033ck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfATsJ9g0QZ46oLSK7xZq2xGVdZYJlzjk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564452844190-8suhl9kdguj37m6u568uvig73q9033ck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
