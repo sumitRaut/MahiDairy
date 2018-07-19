@@ -16,6 +16,11 @@ android {
             proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
         }
     }
+    testOptions {
+        unitTests {
+            includeAndroidResources = true
+        }
+    }
 }
 
 dependencies {
@@ -33,15 +38,7 @@ dependencies {
     implementation 'com.android.support:design:27.1.1'
     implementation 'com.android.support:cardview-v7:27.1.1'
     implementation 'com.haozhang.libary:android-slanted-textview:1.2'
+    testImplementation "org.robolectric:robolectric:3.8"
 }
-
-
-
-
-
-
-
-
-
 
 apply plugin: 'com.google.gms.google-services'
